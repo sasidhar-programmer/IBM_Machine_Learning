@@ -1,0 +1,69 @@
+Mathematics Syllabus (50 Questions):
+
+Set Theory:
+
+Concept of sets – Union, Intersection, Elementary counting, 
+Cardinality, permutations and combinations.
+
+Probability and Statistics:
+
+Basic concepts of probability theory, Dependent and independent events, 
+Averages, frequency distributions, measures of central tendencies and dispersions.
+
+Coordinate Geometry:
+
+Rectangular Cartesian coordinates, distance formulae, equation of a line, 
+and intersection of lines, equations of a circle, parabola, ellipse, pair of straight lines, and hyperbola.
+
+Algebra:
+
+Fundamental operations in algebra, factorization, expansions, 
+simultaneous linear /quadratic equations, arithmetic, indices, 
+logarithms, geometric and harmonic progressions, determinants and matrices.
+
+Calculus:
+
+Limit of functions, continuous function, differentiation of function, 
+Integration of functions by parts, by substitution and by partial fraction, 
+tangents and normals, simple examples of maxima and minima, definite integrals, 
+applications of definite integrals to areas.
+
+Trigonometry:
+
+Simple identities, solution of triangles, 
+heights and distances, trigonometric equations properties of triangles, 
+general solutions of trigonometric equations.
+
+Vectors:
+
+Position vector, addition and subtraction of vectors, scalar and vector products 
+and their applications to simple geometrical problems and mechanics.
+
+Analytical Ability & Logical Reasoning Syllabus (40 Questions):
+Questions in this section will cover logical situation and questions based on the 
+facts given in the passage.
+
+
+Computer Awareness Syllabus (10 Questions):
+
+Computer Awareness:
+
+Organization of a computer, structure of instructions in CPU, 
+input/output devices, Central Processing Unit (CPU), computer memory, 
+and back-up devices.
+
+Data Representation:
+
+Representation of characters, integers and fractions, binary and hexadecimal 
+representations, simple arithmetic and two’s complement arithmetic, 
+floating point representation of numbers, binary arithmetic: addition, 
+subtraction, multiplication, division, Boolean algebra, truth tables, Venn diagrams.
+
+General English Syllabus (20 Questions):
+
+
+The questions in this section will be designed to test candidate’s 
+general understanding of the English language.
+
+The question will be asked from these topics: Comprehension, vocabulary, 
+meaning of words and phrases, Basic English Grammar, synonyms and antonyms, word power, technical writing.
